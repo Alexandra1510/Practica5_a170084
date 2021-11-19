@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/alexi/OneDrive/9°J/Servicios web/Practica5_A170084/Practica5.xsl"?>
+<celulares>
+<celular>
+<marca>Samsung</marca>
+<precio>3000</precio>
+<color>Rojo</color>
+</celular>
+<celular>
+<marca>Motorola</marca>
+<precio>4000</precio>
+<color>Azul</color>
+</celular>
+<celular>
+<marca>Xiaomi</marca>
+<precio>6000</precio>
+<color>Dorado</color>
+</celular>
+</celulares>
